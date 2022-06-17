@@ -4,7 +4,7 @@ certifi==2017.4.17
 chardet==3.0.3
 gym==0.9.1
 idna==2.5
-numpy==1.12.1
+numpy==1.21.0
 olefile==0.44
 packaging==16.8
 Pillow==4.1.1
